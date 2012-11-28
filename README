@@ -1,1 +1,1 @@
-A simple web-application designed to streamline the scheduling of music practice rooms at UMass. This is a group project for CMPSCI 325. Written in Javascript using Node.js and Express.
+A simple web-application designed to streamline the scheduling of music practice rooms at UMass. This is a group project for CMPSCI 325. Written in Javascript using Node.js, Express, MongoDB, and Mongoose. Thinking of using https://npmjs.org/package/calendar to create the main calendar.
